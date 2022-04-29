@@ -1,0 +1,25 @@
+{
+  "name": "grocery-api",
+  "version": "1.0.0",
+  "description": "Grocery list and prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Papatunde766z/grocery-api.git"
+  },
+  "keywords": [
+    "grocery"
+  ],
+  "author": "Samuel Soh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Papatunde766z/grocery-api/issues"
+  },
+  "homepage": "https://github.com/Papatunde766z/grocery-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
