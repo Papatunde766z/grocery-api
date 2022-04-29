@@ -1,0 +1,130 @@
+{
+	"groceries": [
+		{
+			"productId": 0,
+			"productCategory": "Fruits",
+			"productName": "Apple",
+			"productPrice": "$1.00"
+		},
+		{
+			"productId": 1,
+			"productCategory": "Fruits",
+			"productName": "Orange",
+			"productPrice": "$1.10"
+		},
+		{
+			"productId": 2,
+			"productCategory": "Fruits",
+			"productName": "Pear",
+			"productPrice": "$1.20"
+		},
+		{
+			"productId": 3,
+			"productCategory": "Vegetables",
+			"productName": "Brocolli",
+			"productPrice": "$1.30"
+		},
+		{
+			"productId": 4,
+			"productCategory": "Vegetables",
+			"productName": "Cauliflower",
+			"productPrice": "$1.40"
+		},
+		{
+			"productId": 5,
+			"productCategory": "Vegetables",
+			"productName": "Cabbage",
+			"productPrice": "$1.00"
+		},
+		{
+			"productId": 6,
+			"productCategory": "Meat",
+			"productName": "Steak",
+			"productPrice": "$10.00"
+		},
+		{
+			"productId": 7,
+			"productCategory": "Meat",
+			"productName": "Pork loin",
+			"productPrice": "$6.00"
+		},
+		{
+			"productId": 8,
+			"productCategory": "Meat",
+			"productName": "Chicken thigh",
+			"productPrice": "$3.00"
+		},
+		{
+			"productId": 9,
+			"productCategory": "Toiletries",
+			"productName": "Toothbrush",
+			"productPrice": "$2.00"
+		},
+		{
+			"productId": 10,
+			"productCategory": "Toiletries",
+			"productName": "Toothpaste",
+			"productPrice": "$2.50"
+		},
+		{
+			"productId": 11,
+			"productCategory": "Toiletries",
+			"productName": "Toilet paper",
+			"productPrice": "$0.60"
+		},
+		{
+			"productId": 12,
+			"productCategory": "Condiments",
+			"productName": "Salt",
+			"productPrice": "$2.00"
+		},
+		{
+			"productId": 13,
+			"productCategory": "Condiments",
+			"productName": "Pepper",
+			"productPrice": "$1.50"
+		},
+		{
+			"productId": 14,
+			"productCategory": "Condiments",
+			"productName": "Chilli flakes",
+			"productPrice": "$2.20"
+		},
+        {
+			"productId": 15,
+			"productCategory": "Beverages",
+			"productName": "Coca Cola",
+			"productPrice": "$2.20"
+		},
+        {
+			"productId": 16,
+			"productCategory": "Beverages",
+			"productName": "Pepsi",
+			"productPrice": "$2.30"
+		},
+        {
+			"productId": 17,
+			"productCategory": "Beverages",
+			"productName": "Green tea",
+			"productPrice": "$2.10"
+		},
+        {
+			"productId": 18,
+			"productCategory": "Snacks",
+			"productName": "Lays chips",
+			"productPrice": "$3.99"
+		},
+        {
+			"productId": 19,
+			"productCategory": "Snacks",
+			"productName": "Cookies",
+			"productPrice": "$3.20"
+		},
+        {
+			"productId": 20,
+			"productCategory": "Snacks",
+			"productName": "Peanuts",
+			"productPrice": "$3.80"
+		}
+	]
+}
