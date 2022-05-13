@@ -2,128 +2,128 @@
 	"groceries": [
 		{
 			"productId": 0,
-			"productCategory": "Fruits",
-			"productName": "Apple",
+			"productCategory": "fruits",
+			"productName": "apple",
 			"productPrice": "$1.00"
 		},
 		{
 			"productId": 1,
-			"productCategory": "Fruits",
-			"productName": "Orange",
+			"productCategory": "fruits",
+			"productName": "orange",
 			"productPrice": "$1.10"
 		},
 		{
 			"productId": 2,
-			"productCategory": "Fruits",
-			"productName": "Pear",
+			"productCategory": "fruits",
+			"productName": "pear",
 			"productPrice": "$1.20"
 		},
 		{
 			"productId": 3,
-			"productCategory": "Vegetables",
-			"productName": "Brocolli",
+			"productCategory": "vegetables",
+			"productName": "brocolli",
 			"productPrice": "$1.30"
 		},
 		{
 			"productId": 4,
-			"productCategory": "Vegetables",
-			"productName": "Cauliflower",
+			"productCategory": "vegetables",
+			"productName": "cauliflower",
 			"productPrice": "$1.40"
 		},
 		{
 			"productId": 5,
-			"productCategory": "Vegetables",
-			"productName": "Cabbage",
+			"productCategory": "vegetables",
+			"productName": "cabbage",
 			"productPrice": "$1.00"
 		},
 		{
 			"productId": 6,
-			"productCategory": "Meat",
-			"productName": "Steak",
+			"productCategory": "meat",
+			"productName": "steak",
 			"productPrice": "$10.00"
 		},
 		{
 			"productId": 7,
-			"productCategory": "Meat",
-			"productName": "Pork loin",
+			"productCategory": "meat",
+			"productName": "pork loin",
 			"productPrice": "$6.00"
 		},
 		{
 			"productId": 8,
-			"productCategory": "Meat",
-			"productName": "Chicken thigh",
+			"productCategory": "meat",
+			"productName": "chicken thigh",
 			"productPrice": "$3.00"
 		},
 		{
 			"productId": 9,
-			"productCategory": "Toiletries",
-			"productName": "Toothbrush",
+			"productCategory": "toiletries",
+			"productName": "toothbrush",
 			"productPrice": "$2.00"
 		},
 		{
 			"productId": 10,
-			"productCategory": "Toiletries",
-			"productName": "Toothpaste",
+			"productCategory": "toiletries",
+			"productName": "toothpaste",
 			"productPrice": "$2.50"
 		},
 		{
 			"productId": 11,
-			"productCategory": "Toiletries",
-			"productName": "Toilet paper",
+			"productCategory": "toiletries",
+			"productName": "toilet paper",
 			"productPrice": "$0.60"
 		},
 		{
 			"productId": 12,
-			"productCategory": "Condiments",
-			"productName": "Salt",
+			"productCategory": "condiments",
+			"productName": "salt",
 			"productPrice": "$2.00"
 		},
 		{
 			"productId": 13,
-			"productCategory": "Condiments",
-			"productName": "Pepper",
+			"productCategory": "condiments",
+			"productName": "pepper",
 			"productPrice": "$1.50"
 		},
 		{
 			"productId": 14,
-			"productCategory": "Condiments",
-			"productName": "Chilli flakes",
+			"productCategory": "condiments",
+			"productName": "chilli flakes",
 			"productPrice": "$2.20"
 		},
         {
 			"productId": 15,
-			"productCategory": "Beverages",
-			"productName": "Coca Cola",
+			"productCategory": "beverages",
+			"productName": "coca cola",
 			"productPrice": "$2.20"
 		},
         {
 			"productId": 16,
-			"productCategory": "Beverages",
-			"productName": "Pepsi",
+			"productCategory": "beverages",
+			"productName": "pepsi",
 			"productPrice": "$2.30"
 		},
         {
 			"productId": 17,
-			"productCategory": "Beverages",
-			"productName": "Green tea",
+			"productCategory": "beverages",
+			"productName": "green tea",
 			"productPrice": "$2.10"
 		},
         {
 			"productId": 18,
-			"productCategory": "Snacks",
-			"productName": "Lays chips",
+			"productCategory": "snacks",
+			"productName": "lays chips",
 			"productPrice": "$3.99"
 		},
         {
 			"productId": 19,
-			"productCategory": "Snacks",
-			"productName": "Cookies",
+			"productCategory": "snacks",
+			"productName": "cookies",
 			"productPrice": "$3.20"
 		},
         {
 			"productId": 20,
-			"productCategory": "Snacks",
-			"productName": "Peanuts",
+			"productCategory": "snacks",
+			"productName": "peanuts",
 			"productPrice": "$3.80"
 		}
 	]
